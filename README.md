@@ -1,6 +1,6 @@
 ![Banner Image](https://github.com/alexhosp/alexhosp/blob/main/banner-image.png)
 
-### This is what I'm up to 🤙: 
+### 🤙 What I'm up to: 
 
 - 🔭 I’m currently working on my AI agent web app.
 - 🌱 I’m currently learning data science and Google Cloud data analytics.
