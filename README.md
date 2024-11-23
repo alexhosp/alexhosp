@@ -1,6 +1,6 @@
 ![Banner Image](https://github.com/alexhosp/alexhosp/blob/main/banner-image.png)
 
-### Hey there 🤙
+### Hi there 🤙
 
 - 🔭 I’m currently working on my AI agent web app.
 - 🌱 I’m currently learning data science and Google Cloud data analytics.
