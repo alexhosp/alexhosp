@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/alexhosp/alexhosp/banner-image.png)
+![Banner Image](https://github.com/alexhosp/alexhosp/blob/main/banner-image.png)
 
 ### Hey there 🤙
 
