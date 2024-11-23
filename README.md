@@ -1,3 +1,5 @@
+![Banner Image](https://github.com/alexhosp/alexhosp/banner-image.png)
+
 ### Hey there 🤙
 
 - 🔭 I’m currently working on my AI agent web app.
